@@ -29,6 +29,8 @@ Numpy
   Takes an input of the maximum number that will be used in a for loop. Will randomly call a turn for the call until the for loop ends
     
 # Solve.py Methods
+This is what will run the entire program
+
   # Class State
   Every Node will be a State that has its own numpy array, depth it's located in, and its parent that it belongs to
   
@@ -51,7 +53,7 @@ Numpy
 
   #############################################
   
-  Here a Rubik's cube is initally created with a solved state and then scrambled with 5 turns
+  Here a Rubik's cube is initally created with a solved state and then scrambled with 5 turns (Can be changed by editing the integer       parameter)
   
   The scrambled state is printed which in turn, starts the timer 
   
