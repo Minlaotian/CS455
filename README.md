@@ -52,6 +52,9 @@ Numpy
   #############################################
   
   Here a Rubik's cube is initally created with a solved state and then scrambled with 5 turns
+  
   The scrambled state is printed which in turn, starts the timer 
+  
   IDFSAlgorithm is called with the scrambled state as an input
+  
   Once the loop within IDFSAlgorithm ends, the timer ends and is printed
