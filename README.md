@@ -1,12 +1,13 @@
 # CS455FinalProject
 IDFS Algorithm to solve a Rubiks Cube
 
-# Requirements
-Numpy
 
 This program will find the solution for an original 3x3 Rubik's cube using an Iterative Depth First Search Algorithm
 
 Initialization of the Rubiks Cube and all of its states will be done through a 9x12 numpy array
+
+# Requirements
+Numpy
 
 # RubiksCube.py Methods
   # PrintCube
